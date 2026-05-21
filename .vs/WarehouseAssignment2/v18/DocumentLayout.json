@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\Warehouse-managment-system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08B58965-1C85-4E99-BE19-C067714B6395}|WarehouseAssignment2\\WarehouseAssignment2.csproj|c:\\xampp\\htdocs\\warehouse-managment-system\\warehouseassignment2\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08B58965-1C85-4E99-BE19-C067714B6395}|WarehouseAssignment2\\WarehouseAssignment2.csproj|solutionrelative:warehouseassignment2\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B58965-1C85-4E99-BE19-C067714B6395}|WarehouseAssignment2\\WarehouseAssignment2.csproj|C:\\xampp\\htdocs\\Warehouse-managment-system\\warehouseassignment2\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08B58965-1C85-4E99-BE19-C067714B6395}|WarehouseAssignment2\\WarehouseAssignment2.csproj|solutionrelative:warehouseassignment2\\userdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B58965-1C85-4E99-BE19-C067714B6395}|WarehouseAssignment2\\WarehouseAssignment2.csproj|C:\\xampp\\htdocs\\Warehouse-managment-system\\warehouseassignment2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B58965-1C85-4E99-BE19-C067714B6395}|WarehouseAssignment2\\WarehouseAssignment2.csproj|solutionrelative:warehouseassignment2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registration.cs [Design]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Warehouse-managment-system\\WarehouseAssignment2\\Registration.cs",
+              "RelativeDocumentMoniker": "WarehouseAssignment2\\Registration.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Warehouse-managment-system\\WarehouseAssignment2\\Registration.cs [Design]",
+              "RelativeToolTip": "WarehouseAssignment2\\Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T15:04:54.002Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDetails.cs [Design]",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Warehouse-managment-system\\WarehouseAssignment2\\UserDetails.cs",
+              "RelativeDocumentMoniker": "WarehouseAssignment2\\UserDetails.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Warehouse-managment-system\\WarehouseAssignment2\\UserDetails.cs [Design]",
+              "RelativeToolTip": "WarehouseAssignment2\\UserDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T15:04:04.6Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\Warehouse-managment-system\\WarehouseAssignment2\\Form1.cs",
+              "RelativeDocumentMoniker": "WarehouseAssignment2\\Form1.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\Warehouse-managment-system\\WarehouseAssignment2\\Form1.cs",
+              "RelativeToolTip": "WarehouseAssignment2\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwCAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T15:02:01.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
